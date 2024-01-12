@@ -1,0 +1,17 @@
+{
+  "name": "Learning.Dojo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/benjaminfriske/Learning.Dojo.git",
+  "author": "Benjamin Friske <benjaminfriske@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "jest ."
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "packageManager": "yarn@4.0.2"
+}
